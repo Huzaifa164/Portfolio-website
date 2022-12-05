@@ -225,7 +225,8 @@ body {
 
 .project-card {
     width: 300px;
-    height: 390px;
+    /* height: 390px; */
+    
     margin-bottom: 50px;
     /* border: 2px solid black; */
     box-shadow: 5px 5px 5px #f1eeee;
